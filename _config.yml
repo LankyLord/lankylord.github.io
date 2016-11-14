@@ -1,8 +1,8 @@
-# Dependencies
-pygments:         true
-
 # Permalinks
 permalink:        pretty
+
+# Highlighter
+highlighter: rouge
 
 # Setup
 title:            Lanyon
